@@ -62,6 +62,7 @@ pip install pandas seaborn matplotlib
    - **Correlation Matrix Heatmap:** Displays the correlation between different numerical features.
    ![Correlation Matrix Heatmap](Task_2_Figure_2.png)
    - **Pairplot:** Visualizes relationships between multiple features.
+   
    ![Pairplot](Task_2_Figure_3.png)
    - **Survival Count Plot:** Counts the number of survivors for different passengers.
    ![Survival Count Plot](Task_2_Figure_4.png)
