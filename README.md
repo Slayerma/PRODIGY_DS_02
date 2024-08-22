@@ -58,13 +58,13 @@ pip install pandas seaborn matplotlib
 
    The script will generate several plots:
    - **Survival Rate Scatter Plot:** Shows the survival status of passengers.
-   ![Survival Rate Plot](PRODIGY_DS_02/Task_2_Figure_1.png)
+   ![Survival Rate Plot](Task_2_Figure_1.png)
    - **Correlation Matrix Heatmap:** Displays the correlation between different numerical features.
-   ![Correlation Matrix Heatmap](PRODIGY_DS_02/Task_2_Figure_2.png)
+   ![Correlation Matrix Heatmap](Task_2_Figure_2.png)
    - **Pairplot:** Visualizes relationships between multiple features.
-   ![Pairplot](PRODIGY_DS_02/Task_2_Figure_3.png)
+   ![Pairplot](Task_2_Figure_3.png)
    - **Survival Count Plot:** Counts the number of survivors for different passengers.
-   ![Survival Count Plot](PRODIGY_DS_02/Task_2_Figure_4.png)
+   ![Survival Count Plot](Task_2_Figure_4.png)
 
 ## Files
 
