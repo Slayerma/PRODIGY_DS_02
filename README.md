@@ -31,8 +31,8 @@ pip install pandas seaborn matplotlib
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/PRODIGY_DS_02/titanic-eda.git
-   cd titanic-eda
+   git clone https://github.com/Slayerma/PRODIGY_DS_02.git
+   cd PRODIGY_DS_02
    ```
 
 2. **Prepare the Dataset:**
